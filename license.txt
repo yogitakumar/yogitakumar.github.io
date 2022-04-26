@@ -1,0 +1,27 @@
+Bootstrap 5 Portfolio Theme for Developers
+
+Theme name:
+=======================================================================
+Developer 
+
+Theme version:
+=======================================================================
+Bootstrap 5 v1.0
+
+Release Date:
+=======================================================================
+2021-07-09
+
+Author: 
+=======================================================================
+Yogita Kumar
+
+Contact:
+=======================================================================
+Web: https://yogitakumar.github.io
+Email: helloyogita@gmail.com
+Twitter: @YogitaKumar05
+
+License: 
+=======================================================================
+All rights reserved by @yogitakumar
