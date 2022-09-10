@@ -18,7 +18,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #778492;
+  color: #4075b2;
 }
 
 a {
@@ -140,7 +140,8 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .desc {
-  color: #778492;
+  /*color: #778492; */
+  color:#4075b2;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -149,7 +150,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #39828d;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -162,7 +163,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #77927e;
 }
 
 .header .profile-content .social a .svg-inline--fa {
@@ -183,7 +184,8 @@ a.dotted-link:hover {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  /*color: #545e69;*/
+  color:rgb(21, 77, 100);
   font-size: 24px;
 }
 
@@ -192,7 +194,10 @@ a.dotted-link:hover {
   font-size: 14px;
   position: relative;
   top: -2px;
+
 }
+
+
 
 /* About Section */
 /* Latest Section */
@@ -211,11 +216,12 @@ a.dotted-link:hover {
 }
 
 .latest .item .title a {
-  color: #778492;
+  color: #779278;
+  
 }
 
 .latest .item .title a:hover {
-  color: #5f6b77;
+  color: #65775f;
 }
 
 .latest .item .project-image:hover {
@@ -240,7 +246,7 @@ a.dotted-link:hover {
 
 .latest .featured .summary {
   margin-bottom: 30px;
-  color: #778492;
+  color: #77927b;
 }
 
 .latest .featured img {
@@ -319,11 +325,11 @@ a.dotted-link:hover {
 }
 
 .projects .item .title a {
-  color: #778492;
+  color: #789277;
 }
 
 .projects .item .title a:hover {
-  color: #5f6b77;
+  color: #5f7765;
 }
 
 /* Work Section */
@@ -339,12 +345,12 @@ a.dotted-link:hover {
 }
 
 .experience .item .title .place {
-  color: #999;
+  color: rgb(153, 153, 153);
   font-weight: normal;
 }
 
 .experience .item .title .place a {
-  color: #999;
+  color: rgb(153, 153, 153);
 }
 
 .experience .item .title .place a:hover {
@@ -383,7 +389,8 @@ a.dotted-link:hover {
 /* Info Section */
 .info .svg-inline--fa {
   margin-right: 15px;
-  color: #ccd1d6;
+  /*color: #ccd6ce;*/
+  color: #3089AC;
 }
 
 .info .svg-inline--fa.fa-envelope-o {
@@ -538,13 +545,17 @@ a.dotted-link:hover {
   margin-bottom: 30px;
 }
 
+.blog h6 a{
+color: #4075b2;
+}
+
 .blog .item .title {
   font-size: 18px;
   line-height: 1.3;
 }
 
 .blog .item .title a {
-  color: #778492;
+  color: #819277;
 }
 
 .blog .item .title a:hover {
@@ -569,7 +580,8 @@ a.dotted-link:hover {
 }
 
 .list ul li a {
-  color: #778492;
+  /*color: #928577 ;*/
+ color:  #3089AC;
 }
 
 .list ul li a:hover {
